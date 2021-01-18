@@ -1,0 +1,18 @@
+body{
+   background: url('../img/rojo.jpg');
+   background-attachment: fixed; /*para cuando doy scroll la imagen no se me cale*/
+}
+
+#logo{
+
+	background: #CA3413;
+	
+}
+
+#menu ul li:hover{
+    background: #CA3413;
+}
+
+.button-more{
+	background: #CA3413;	
+}

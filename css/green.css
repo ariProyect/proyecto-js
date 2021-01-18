@@ -1,0 +1,18 @@
+body{
+   background-image: url('../img/hojas.jpg');
+   background-attachment: fixed; /*para cuando doy scroll la imagen no se me cale*/
+}
+
+#logo{
+
+	background: #235E3D;
+
+}
+
+#menu ul li:hover{
+    background: #235E3D;
+}
+
+.button-more{
+	background: #235E3D;
+}

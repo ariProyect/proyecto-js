@@ -1,0 +1,18 @@
+body{
+   background: url('../img/cielo.jpg');
+   background-attachment: fixed; /*para cuando doy scroll la imagen no se me cale*/
+}
+
+#logo{
+
+	background: #1F87C4;
+	
+}
+
+#menu ul li:hover{
+    background: #1F87C4;
+}
+
+.button-more{
+	background: #1F87C4;	
+}
